@@ -1,0 +1,11 @@
+E:\Grade 11\ICS3U1\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\obj\Debug\ChamasF_ASSN03_Hidden_Stars.frmHiddenStars.resources
+E:\Grade 11\ICS3U1\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\obj\Debug\ChamasF_ASSN03_Hidden_Stars.Resources.resources
+E:\Grade 11\ICS3U1\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\obj\Debug\ChamasF_ASSN03 Hidden Stars.vbproj.GenerateResource.cache
+E:\Grade 11\ICS3U1\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\bin\Debug\ChamasF_ASSN03 Hidden Stars.exe.config
+E:\Grade 11\ICS3U1\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\bin\Debug\ChamasF_ASSN03 Hidden Stars.exe
+E:\Grade 11\ICS3U1\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\bin\Debug\ChamasF_ASSN03 Hidden Stars.pdb
+E:\Grade 11\ICS3U1\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\bin\Debug\ChamasF_ASSN03 Hidden Stars.xml
+E:\Grade 11\ICS3U1\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\obj\Debug\ChamasF_ASSN03 Hidden Stars.exe
+E:\Grade 11\ICS3U1\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\obj\Debug\ChamasF_ASSN03 Hidden Stars.xml
+E:\Grade 11\ICS3U1\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\obj\Debug\ChamasF_ASSN03 Hidden Stars.pdb
+E:\Grade 11\ICS3U1\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\ChamasF_ASSN03 Hidden Stars\obj\Debug\ChamasF_ASSN03 Hidden Stars.vbprojResolveAssemblyReference.cache
