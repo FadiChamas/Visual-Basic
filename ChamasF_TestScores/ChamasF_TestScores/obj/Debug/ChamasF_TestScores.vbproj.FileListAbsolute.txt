@@ -1,0 +1,12 @@
+E:\Grade 11\ICS3U1\ChamasF_TestScores\ChamasF_TestScores\bin\Debug\ChamasF_TestScores.exe.config
+E:\Grade 11\ICS3U1\ChamasF_TestScores\ChamasF_TestScores\bin\Debug\ChamasF_TestScores.exe
+E:\Grade 11\ICS3U1\ChamasF_TestScores\ChamasF_TestScores\bin\Debug\ChamasF_TestScores.pdb
+E:\Grade 11\ICS3U1\ChamasF_TestScores\ChamasF_TestScores\bin\Debug\ChamasF_TestScores.xml
+E:\Grade 11\ICS3U1\ChamasF_TestScores\ChamasF_TestScores\obj\Debug\ChamasF_TestScores.vbprojAssemblyReference.cache
+E:\Grade 11\ICS3U1\ChamasF_TestScores\ChamasF_TestScores\obj\Debug\ChamasF_TestScores.frmTestScores.resources
+E:\Grade 11\ICS3U1\ChamasF_TestScores\ChamasF_TestScores\obj\Debug\ChamasF_TestScores.Resources.resources
+E:\Grade 11\ICS3U1\ChamasF_TestScores\ChamasF_TestScores\obj\Debug\ChamasF_TestScores.vbproj.GenerateResource.cache
+E:\Grade 11\ICS3U1\ChamasF_TestScores\ChamasF_TestScores\obj\Debug\ChamasF_TestScores.vbproj.CoreCompileInputs.cache
+E:\Grade 11\ICS3U1\ChamasF_TestScores\ChamasF_TestScores\obj\Debug\ChamasF_TestScores.exe
+E:\Grade 11\ICS3U1\ChamasF_TestScores\ChamasF_TestScores\obj\Debug\ChamasF_TestScores.xml
+E:\Grade 11\ICS3U1\ChamasF_TestScores\ChamasF_TestScores\obj\Debug\ChamasF_TestScores.pdb

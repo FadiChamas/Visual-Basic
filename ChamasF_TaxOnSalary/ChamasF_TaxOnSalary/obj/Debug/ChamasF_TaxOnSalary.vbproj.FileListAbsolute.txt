@@ -1,0 +1,12 @@
+E:\Grade 11\ICS3U1\ChamasF_TaxOnSalary\ChamasF_TaxOnSalary\bin\Debug\ChamasF_TaxOnSalary.exe.config
+E:\Grade 11\ICS3U1\ChamasF_TaxOnSalary\ChamasF_TaxOnSalary\bin\Debug\ChamasF_TaxOnSalary.exe
+E:\Grade 11\ICS3U1\ChamasF_TaxOnSalary\ChamasF_TaxOnSalary\bin\Debug\ChamasF_TaxOnSalary.pdb
+E:\Grade 11\ICS3U1\ChamasF_TaxOnSalary\ChamasF_TaxOnSalary\bin\Debug\ChamasF_TaxOnSalary.xml
+E:\Grade 11\ICS3U1\ChamasF_TaxOnSalary\ChamasF_TaxOnSalary\obj\Debug\ChamasF_TaxOnSalary.frmTaxOnSalary.resources
+E:\Grade 11\ICS3U1\ChamasF_TaxOnSalary\ChamasF_TaxOnSalary\obj\Debug\ChamasF_TaxOnSalary.Resources.resources
+E:\Grade 11\ICS3U1\ChamasF_TaxOnSalary\ChamasF_TaxOnSalary\obj\Debug\ChamasF_TaxOnSalary.vbproj.GenerateResource.cache
+E:\Grade 11\ICS3U1\ChamasF_TaxOnSalary\ChamasF_TaxOnSalary\obj\Debug\ChamasF_TaxOnSalary.vbproj.CoreCompileInputs.cache
+E:\Grade 11\ICS3U1\ChamasF_TaxOnSalary\ChamasF_TaxOnSalary\obj\Debug\ChamasF_TaxOnSalary.exe
+E:\Grade 11\ICS3U1\ChamasF_TaxOnSalary\ChamasF_TaxOnSalary\obj\Debug\ChamasF_TaxOnSalary.xml
+E:\Grade 11\ICS3U1\ChamasF_TaxOnSalary\ChamasF_TaxOnSalary\obj\Debug\ChamasF_TaxOnSalary.pdb
+E:\Grade 11\ICS3U1\ChamasF_TaxOnSalary\ChamasF_TaxOnSalary\obj\Debug\ChamasF_TaxOnSalary.vbprojResolveAssemblyReference.cache
