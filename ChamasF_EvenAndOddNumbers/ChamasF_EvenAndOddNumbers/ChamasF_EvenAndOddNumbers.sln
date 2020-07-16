@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ChamasF_EvenAndOddNumbers", "ChamasF_EvenAndOddNumbers\ChamasF_EvenAndOddNumbers.vbproj", "{820BFE21-3152-4AFB-8B70-1AA2803DDE24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820BFE21-3152-4AFB-8B70-1AA2803DDE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820BFE21-3152-4AFB-8B70-1AA2803DDE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820BFE21-3152-4AFB-8B70-1AA2803DDE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820BFE21-3152-4AFB-8B70-1AA2803DDE24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA02028-AC75-4158-8B38-CF073E37139D}
+	EndGlobalSection
+EndGlobal
