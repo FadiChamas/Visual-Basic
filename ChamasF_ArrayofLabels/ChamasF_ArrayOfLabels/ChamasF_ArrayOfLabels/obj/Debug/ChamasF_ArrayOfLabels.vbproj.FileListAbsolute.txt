@@ -1,0 +1,12 @@
+E:\Grade 11\ICS3U1\ChamasF_ArrayofLabels\ChamasF_ArrayOfLabels\ChamasF_ArrayOfLabels\obj\Debug\ChamasF_ArrayOfLabels.vbprojAssemblyReference.cache
+E:\Grade 11\ICS3U1\ChamasF_ArrayofLabels\ChamasF_ArrayOfLabels\ChamasF_ArrayOfLabels\obj\Debug\ChamasF_ArrayOfLabels.frmArrayofLabels.resources
+E:\Grade 11\ICS3U1\ChamasF_ArrayofLabels\ChamasF_ArrayOfLabels\ChamasF_ArrayOfLabels\obj\Debug\ChamasF_ArrayOfLabels.Resources.resources
+E:\Grade 11\ICS3U1\ChamasF_ArrayofLabels\ChamasF_ArrayOfLabels\ChamasF_ArrayOfLabels\obj\Debug\ChamasF_ArrayOfLabels.vbproj.GenerateResource.cache
+E:\Grade 11\ICS3U1\ChamasF_ArrayofLabels\ChamasF_ArrayOfLabels\ChamasF_ArrayOfLabels\obj\Debug\ChamasF_ArrayOfLabels.vbproj.CoreCompileInputs.cache
+E:\Grade 11\ICS3U1\ChamasF_ArrayofLabels\ChamasF_ArrayOfLabels\ChamasF_ArrayOfLabels\bin\Debug\ChamasF_ArrayOfLabels.exe.config
+E:\Grade 11\ICS3U1\ChamasF_ArrayofLabels\ChamasF_ArrayOfLabels\ChamasF_ArrayOfLabels\bin\Debug\ChamasF_ArrayOfLabels.exe
+E:\Grade 11\ICS3U1\ChamasF_ArrayofLabels\ChamasF_ArrayOfLabels\ChamasF_ArrayOfLabels\bin\Debug\ChamasF_ArrayOfLabels.pdb
+E:\Grade 11\ICS3U1\ChamasF_ArrayofLabels\ChamasF_ArrayOfLabels\ChamasF_ArrayOfLabels\bin\Debug\ChamasF_ArrayOfLabels.xml
+E:\Grade 11\ICS3U1\ChamasF_ArrayofLabels\ChamasF_ArrayOfLabels\ChamasF_ArrayOfLabels\obj\Debug\ChamasF_ArrayOfLabels.exe
+E:\Grade 11\ICS3U1\ChamasF_ArrayofLabels\ChamasF_ArrayOfLabels\ChamasF_ArrayOfLabels\obj\Debug\ChamasF_ArrayOfLabels.xml
+E:\Grade 11\ICS3U1\ChamasF_ArrayofLabels\ChamasF_ArrayOfLabels\ChamasF_ArrayOfLabels\obj\Debug\ChamasF_ArrayOfLabels.pdb
