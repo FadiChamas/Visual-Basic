@@ -1,0 +1,12 @@
+E:\Grade 11\ICS3U1\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\bin\Debug\ChamasF_ASSN02 BrandisBagelHouse.exe.config
+E:\Grade 11\ICS3U1\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\bin\Debug\ChamasF_ASSN02 BrandisBagelHouse.exe
+E:\Grade 11\ICS3U1\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\bin\Debug\ChamasF_ASSN02 BrandisBagelHouse.pdb
+E:\Grade 11\ICS3U1\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\bin\Debug\ChamasF_ASSN02 BrandisBagelHouse.xml
+E:\Grade 11\ICS3U1\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\obj\Debug\ChamasF_ASSN02 BrandisBagelHouse.vbprojAssemblyReference.cache
+E:\Grade 11\ICS3U1\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\obj\Debug\ChamasF_ASSN02_BrandisBagelHouse.frmBagelHouse.resources
+E:\Grade 11\ICS3U1\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\obj\Debug\ChamasF_ASSN02_BrandisBagelHouse.Resources.resources
+E:\Grade 11\ICS3U1\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\obj\Debug\ChamasF_ASSN02 BrandisBagelHouse.vbproj.GenerateResource.cache
+E:\Grade 11\ICS3U1\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\obj\Debug\ChamasF_ASSN02 BrandisBagelHouse.vbproj.CoreCompileInputs.cache
+E:\Grade 11\ICS3U1\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\obj\Debug\ChamasF_ASSN02 BrandisBagelHouse.exe
+E:\Grade 11\ICS3U1\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\obj\Debug\ChamasF_ASSN02 BrandisBagelHouse.xml
+E:\Grade 11\ICS3U1\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\ChamasF_ASSN02 BrandisBagelHouse\obj\Debug\ChamasF_ASSN02 BrandisBagelHouse.pdb
