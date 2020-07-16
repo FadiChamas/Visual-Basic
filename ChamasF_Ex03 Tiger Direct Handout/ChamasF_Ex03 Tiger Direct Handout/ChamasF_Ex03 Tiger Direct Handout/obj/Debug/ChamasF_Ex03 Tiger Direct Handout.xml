@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ChamasF_Ex03 Tiger Direct Handout
+</name>
+</assembly>
+<members>
+<member name="T:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.acer01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.acer02">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.acer03">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.acer04">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.emachines01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.gateway">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.RM">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.systemax01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.systemax02">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.thinkpad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChamasF_Ex03_Tiger_Direct_Handout.My.Resources.Resources.toshiba">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

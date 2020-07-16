@@ -1,0 +1,12 @@
+E:\Grade 11\ICS3U1\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\bin\Debug\ChamasF_Ex03 Tiger Direct Handout.exe.config
+E:\Grade 11\ICS3U1\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\bin\Debug\ChamasF_Ex03 Tiger Direct Handout.exe
+E:\Grade 11\ICS3U1\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\bin\Debug\ChamasF_Ex03 Tiger Direct Handout.pdb
+E:\Grade 11\ICS3U1\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\bin\Debug\ChamasF_Ex03 Tiger Direct Handout.xml
+E:\Grade 11\ICS3U1\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\obj\Debug\ChamasF_Ex03_Tiger_Direct_Handout.Resources.resources
+E:\Grade 11\ICS3U1\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\obj\Debug\ChamasF_Ex03 Tiger Direct Handout.vbproj.GenerateResource.cache
+E:\Grade 11\ICS3U1\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\obj\Debug\ChamasF_Ex03 Tiger Direct Handout.vbproj.CoreCompileInputs.cache
+E:\Grade 11\ICS3U1\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\obj\Debug\ChamasF_Ex03 Tiger Direct Handout.exe
+E:\Grade 11\ICS3U1\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\obj\Debug\ChamasF_Ex03 Tiger Direct Handout.xml
+E:\Grade 11\ICS3U1\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\obj\Debug\ChamasF_Ex03 Tiger Direct Handout.pdb
+E:\Grade 11\ICS3U1\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\obj\Debug\ChamasF_Ex03_Tiger_Direct_Handout.frmTigerDirect.resources
+E:\Grade 11\ICS3U1\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\ChamasF_Ex03 Tiger Direct Handout\obj\Debug\ChamasF_Ex03 Tiger Direct Handout.vbprojAssemblyReference.cache

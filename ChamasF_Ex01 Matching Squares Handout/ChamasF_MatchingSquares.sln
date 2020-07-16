@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ChamasF_MatchingSquares", "ChamasF_MatchingSquares\ChamasF_MatchingSquares.vbproj", "{98A4D837-65D2-4AD1-B21D-9440EAA55D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A4D837-65D2-4AD1-B21D-9440EAA55D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A4D837-65D2-4AD1-B21D-9440EAA55D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A4D837-65D2-4AD1-B21D-9440EAA55D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A4D837-65D2-4AD1-B21D-9440EAA55D71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7787673-4A0B-4BFF-94A0-ED4E48D52793}
+	EndGlobalSection
+EndGlobal
