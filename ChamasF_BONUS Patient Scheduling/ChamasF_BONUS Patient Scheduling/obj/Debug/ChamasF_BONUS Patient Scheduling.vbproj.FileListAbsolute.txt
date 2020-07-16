@@ -1,0 +1,12 @@
+E:\Grade 11\ICS3U1\ChamasF_BONUS Patient Scheduling\ChamasF_BONUS Patient Scheduling\bin\Debug\ChamasF_BONUS Patient Scheduling.exe.config
+E:\Grade 11\ICS3U1\ChamasF_BONUS Patient Scheduling\ChamasF_BONUS Patient Scheduling\bin\Debug\ChamasF_BONUS Patient Scheduling.exe
+E:\Grade 11\ICS3U1\ChamasF_BONUS Patient Scheduling\ChamasF_BONUS Patient Scheduling\bin\Debug\ChamasF_BONUS Patient Scheduling.pdb
+E:\Grade 11\ICS3U1\ChamasF_BONUS Patient Scheduling\ChamasF_BONUS Patient Scheduling\bin\Debug\ChamasF_BONUS Patient Scheduling.xml
+E:\Grade 11\ICS3U1\ChamasF_BONUS Patient Scheduling\ChamasF_BONUS Patient Scheduling\obj\Debug\ChamasF_BONUS_Patient_Scheduling.Form1.resources
+E:\Grade 11\ICS3U1\ChamasF_BONUS Patient Scheduling\ChamasF_BONUS Patient Scheduling\obj\Debug\ChamasF_BONUS_Patient_Scheduling.Resources.resources
+E:\Grade 11\ICS3U1\ChamasF_BONUS Patient Scheduling\ChamasF_BONUS Patient Scheduling\obj\Debug\ChamasF_BONUS Patient Scheduling.vbproj.GenerateResource.cache
+E:\Grade 11\ICS3U1\ChamasF_BONUS Patient Scheduling\ChamasF_BONUS Patient Scheduling\obj\Debug\ChamasF_BONUS Patient Scheduling.vbproj.CoreCompileInputs.cache
+E:\Grade 11\ICS3U1\ChamasF_BONUS Patient Scheduling\ChamasF_BONUS Patient Scheduling\obj\Debug\ChamasF_BONUS Patient Scheduling.exe
+E:\Grade 11\ICS3U1\ChamasF_BONUS Patient Scheduling\ChamasF_BONUS Patient Scheduling\obj\Debug\ChamasF_BONUS Patient Scheduling.xml
+E:\Grade 11\ICS3U1\ChamasF_BONUS Patient Scheduling\ChamasF_BONUS Patient Scheduling\obj\Debug\ChamasF_BONUS Patient Scheduling.pdb
+E:\Grade 11\ICS3U1\ChamasF_BONUS Patient Scheduling\ChamasF_BONUS Patient Scheduling\obj\Debug\ChamasF_BONUS Patient Scheduling.vbprojAssemblyReference.cache
