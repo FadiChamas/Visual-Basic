@@ -1,0 +1,12 @@
+E:\Grade 11\ICS3U1\ChamasF_DiceGame\ChamasF_DiceGame\ChamasF_DiceGame\obj\Debug\ChamasF_DiceGame.vbprojAssemblyReference.cache
+E:\Grade 11\ICS3U1\ChamasF_DiceGame\ChamasF_DiceGame\ChamasF_DiceGame\obj\Debug\ChamasF_DiceGame.frmDiceGame.resources
+E:\Grade 11\ICS3U1\ChamasF_DiceGame\ChamasF_DiceGame\ChamasF_DiceGame\obj\Debug\ChamasF_DiceGame.Resources.resources
+E:\Grade 11\ICS3U1\ChamasF_DiceGame\ChamasF_DiceGame\ChamasF_DiceGame\obj\Debug\ChamasF_DiceGame.vbproj.GenerateResource.cache
+E:\Grade 11\ICS3U1\ChamasF_DiceGame\ChamasF_DiceGame\ChamasF_DiceGame\obj\Debug\ChamasF_DiceGame.vbproj.CoreCompileInputs.cache
+E:\Grade 11\ICS3U1\ChamasF_DiceGame\ChamasF_DiceGame\ChamasF_DiceGame\bin\Debug\ChamasF_DiceGame.exe.config
+E:\Grade 11\ICS3U1\ChamasF_DiceGame\ChamasF_DiceGame\ChamasF_DiceGame\bin\Debug\ChamasF_DiceGame.exe
+E:\Grade 11\ICS3U1\ChamasF_DiceGame\ChamasF_DiceGame\ChamasF_DiceGame\bin\Debug\ChamasF_DiceGame.pdb
+E:\Grade 11\ICS3U1\ChamasF_DiceGame\ChamasF_DiceGame\ChamasF_DiceGame\bin\Debug\ChamasF_DiceGame.xml
+E:\Grade 11\ICS3U1\ChamasF_DiceGame\ChamasF_DiceGame\ChamasF_DiceGame\obj\Debug\ChamasF_DiceGame.exe
+E:\Grade 11\ICS3U1\ChamasF_DiceGame\ChamasF_DiceGame\ChamasF_DiceGame\obj\Debug\ChamasF_DiceGame.xml
+E:\Grade 11\ICS3U1\ChamasF_DiceGame\ChamasF_DiceGame\ChamasF_DiceGame\obj\Debug\ChamasF_DiceGame.pdb
