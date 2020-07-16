@@ -1,0 +1,12 @@
+E:\Grade 11\ICS3U1\ChamasF_AlarmSystem\ChamasF_AlarmSystem\ChamasF_AlarmSystem\obj\Debug\ChamasF_AlarmSystem.frmAlarmSystem.resources
+E:\Grade 11\ICS3U1\ChamasF_AlarmSystem\ChamasF_AlarmSystem\ChamasF_AlarmSystem\obj\Debug\ChamasF_AlarmSystem.Resources.resources
+E:\Grade 11\ICS3U1\ChamasF_AlarmSystem\ChamasF_AlarmSystem\ChamasF_AlarmSystem\obj\Debug\ChamasF_AlarmSystem.vbproj.GenerateResource.cache
+E:\Grade 11\ICS3U1\ChamasF_AlarmSystem\ChamasF_AlarmSystem\ChamasF_AlarmSystem\obj\Debug\ChamasF_AlarmSystem.vbproj.CoreCompileInputs.cache
+E:\Grade 11\ICS3U1\ChamasF_AlarmSystem\ChamasF_AlarmSystem\ChamasF_AlarmSystem\bin\Debug\ChamasF_AlarmSystem.exe.config
+E:\Grade 11\ICS3U1\ChamasF_AlarmSystem\ChamasF_AlarmSystem\ChamasF_AlarmSystem\bin\Debug\ChamasF_AlarmSystem.exe
+E:\Grade 11\ICS3U1\ChamasF_AlarmSystem\ChamasF_AlarmSystem\ChamasF_AlarmSystem\bin\Debug\ChamasF_AlarmSystem.pdb
+E:\Grade 11\ICS3U1\ChamasF_AlarmSystem\ChamasF_AlarmSystem\ChamasF_AlarmSystem\bin\Debug\ChamasF_AlarmSystem.xml
+E:\Grade 11\ICS3U1\ChamasF_AlarmSystem\ChamasF_AlarmSystem\ChamasF_AlarmSystem\obj\Debug\ChamasF_AlarmSystem.exe
+E:\Grade 11\ICS3U1\ChamasF_AlarmSystem\ChamasF_AlarmSystem\ChamasF_AlarmSystem\obj\Debug\ChamasF_AlarmSystem.xml
+E:\Grade 11\ICS3U1\ChamasF_AlarmSystem\ChamasF_AlarmSystem\ChamasF_AlarmSystem\obj\Debug\ChamasF_AlarmSystem.pdb
+E:\Grade 11\ICS3U1\ChamasF_AlarmSystem\ChamasF_AlarmSystem\ChamasF_AlarmSystem\obj\Debug\ChamasF_AlarmSystem.vbprojAssemblyReference.cache
