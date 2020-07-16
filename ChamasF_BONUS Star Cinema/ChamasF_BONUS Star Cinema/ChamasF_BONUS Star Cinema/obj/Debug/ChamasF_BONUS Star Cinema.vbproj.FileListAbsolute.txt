@@ -1,0 +1,29 @@
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\bin\Debug\ChamasF_BONUS Star Cinema.exe.config
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\bin\Debug\ChamasF_BONUS Star Cinema.exe
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\bin\Debug\ChamasF_BONUS Star Cinema.pdb
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\bin\Debug\ChamasF_BONUS Star Cinema.xml
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS Star Cinema.vbprojResolveAssemblyReference.cache
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS_Star_Cinema.Resources.resources
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS Star Cinema.vbproj.GenerateResource.cache
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS Star Cinema.vbproj.CoreCompileInputs.cache
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS Star Cinema.exe
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS Star Cinema.xml
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS Star Cinema.pdb
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS_Star_Cinema.frmSelect.resources
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS_Star_Cinema.frmDateandTime.resources
+C:\Users\Ali Chamas\source\repos\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS_Star_Cinema.frmSeat.resources
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\bin\Debug\ChamasF_BONUS Star Cinema.exe.config
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\bin\Debug\ChamasF_BONUS Star Cinema.exe
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\bin\Debug\ChamasF_BONUS Star Cinema.pdb
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\bin\Debug\ChamasF_BONUS Star Cinema.xml
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS_Star_Cinema.frmSelect.resources
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS_Star_Cinema.frmDateandTime.resources
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS_Star_Cinema.frmSeat.resources
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS_Star_Cinema.Resources.resources
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS Star Cinema.vbproj.GenerateResource.cache
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS Star Cinema.exe
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS Star Cinema.xml
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS Star Cinema.pdb
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS Star Cinema.vbprojResolveAssemblyReference.cache
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS Star Cinema.vbproj.CoreCompileInputs.cache
+E:\Grade 11\ICS3U1\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\ChamasF_BONUS Star Cinema\obj\Debug\ChamasF_BONUS_Star_Cinema.frmPrint.resources
